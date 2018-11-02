@@ -1,0 +1,94 @@
+#background {
+	width: 100%;
+	height: 1300px;
+	background-image: url(C:/Users/admin/Desktop/my/image/trees.jpg);
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+	background-position: 0;
+}
+
+#all {
+	width:1000px;
+	height:685px;
+	left: 170px;
+	position: relative;
+}
+
+#header{
+	width:1000px;
+	height: 85px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+	color: #db5e1a;
+	background-color: #142300;
+
+}
+
+#menu {
+	overflow: hidden;
+
+}
+
+#pictures {
+	width: 922px;
+	height: 210px;
+	background-color: #c4a431;
+	opacity: 0.9;
+	padding-left: 78px;
+	padding-top: 10px;
+}
+
+#content {
+	width: 960px;
+	height: 100%;
+	/*background-color: #c5db32;*/
+	background: rgba(197, 219, 50, 0.9);
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	font-size: 20px;
+	/*font-family: 'Roboto', sans-serif;*/
+	font-family: 'PT Sans', sans-serif;
+}
+
+#footer {
+	width: 1000px;
+	height: 80px;
+	background-color: #bef574;
+}
+.menuuuu {
+	list-style:none;
+	margin:0 auto;
+	padding-left: 0;
+	padding: 17px;
+	background: #002800;
+	display: flex;
+	justify-content: space-around;
+}
+a {
+	text-decoration: none;
+	/*font-family: 'Comfortaa', cursive;
+	text-transform: uppercase;*/
+	font-family: 'Neucha', cursive;
+	font-weight: bold;
+	color: #c8ff84;
+	padding: 1em;
+	background: #db5e0b;
+	border-right: 2px solid #4f230d;
+	color: #4f230d;
+}
+/*.list {
+	display: inline;
+}*/
+a:hover {
+	background: #421704;
+	color: #d2691e;
+	border-right: 2px solid #140701
+}
+h4 {
+	margin: 0px;
+}
+
+.galleria {
+}
